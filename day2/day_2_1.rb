@@ -16,4 +16,4 @@ def count_valid_passwords(passwds_file)
   valid_passwds
 end
 
-puts count_valid_passwords('/day_2_2.txt')
+puts count_valid_passwords('/day_2_1.txt')
